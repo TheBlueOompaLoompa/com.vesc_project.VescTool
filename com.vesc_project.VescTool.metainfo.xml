@@ -19,6 +19,11 @@
   </screenshots>
 
   <releases>
+    <release version="6.02" type="development" date="2023-10-23" urgency="high">
+      <description>
+        <p>Release</p>
+      </description>
+    </release>
     <release version="3.00" type="development" date="2021-01-11" urgency="medium">
       <description>
         <p>Release</p>
